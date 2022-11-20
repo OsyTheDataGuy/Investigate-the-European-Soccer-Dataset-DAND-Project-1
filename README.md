@@ -6,7 +6,7 @@
 
 The <a href="https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0a4cad_database/database.sqlite&sa=D&source=editors&ust=1668684100257258&usg=AOvVaw0U6MA0aqljycP9xMYE-Vl7">soccer database</a> contains data for over 25,000 football matches played from 2008 to 2016 by 299 European football clubs.
 
-The database contains seven datasets, namely: 
+The dataset contains seven tables, namely: 
 - Country (id, name) 
 - League (id, country_id, name) 
 - Match (id, country_id, league_id, home_team_goal, away_team_goal, and 100 other columns) 
